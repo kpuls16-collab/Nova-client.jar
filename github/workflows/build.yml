@@ -1,5 +1,5 @@
 
-name: Build Nova Client
+name: Build
 
 on:
   push:
